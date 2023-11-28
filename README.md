@@ -17,4 +17,4 @@
 ---
 <h3 align="center">Let's connect</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gabe-velasquez-" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="gabe-velasquez" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/gabriel-velasquez-/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="gabe-velasquez" height="50" width="50" /></a>
