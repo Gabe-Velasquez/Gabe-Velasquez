@@ -1,8 +1,9 @@
-≤"?
-|]<div align=center>
+<div align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=0099ff&center=true&vCenter=true&width=500&lines=Hi!+I'm+Gabe;Mobile+first+builds;User+friendly+UI" alt="Typing SVG" /></a>
 </div>
+
 ---
+
 - 🔭 I’m currently working on finishing my full-stack developer bootcamp at the University of Minnesota.
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
