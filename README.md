@@ -10,7 +10,7 @@
 - ⚡ Fun fact: When you can't find me behind a screen, you'll find me at a ski slope 🏂 or at a hockey game 🏒 GoAvsGo
 
 
-### Stats
+<h2 align="center">Stats</h2>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gabe-velasquez&count_private=true)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gabe-velasquez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
