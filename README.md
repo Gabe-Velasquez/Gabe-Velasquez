@@ -1,7 +1,8 @@
-<div align=center>
+≤"?
+|]<div align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=0099ff&center=true&vCenter=true&width=500&lines=Hi!+I'm+Gabe;Mobile+first+builds;User+friendly+UI" alt="Typing SVG" /></a>
 </div>
-
+---
 - 🔭 I’m currently working on finishing my full-stack developer bootcamp at the University of Minnesota.
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
@@ -10,7 +11,7 @@
 - ⚡ Fun fact: When you can't find me behind a screen, you'll find me at a ski slope 🏂 or at a hockey game 🏒 GoAvsGo
 
 
-<h2 align="center">Stats</h2>
+### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gabe-velasquez&count_private=true)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gabe-velasquez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
