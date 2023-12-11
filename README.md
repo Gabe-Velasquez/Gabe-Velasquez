@@ -4,9 +4,9 @@
 
 ---
 
-- 🔭 I’m currently working on finishing my full-stack developer bootcamp at the University of Minnesota.
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently building an application that is a replacement of the NHL app that is available on the app store.
+- 🌱 I’m currently learning swift to have a footing in mobile development. 
+- 👯 I’m looking to collaborate on anything that catches my interest! Let's chat!! 
 - 🤔 I’m looking for help with getting my first web developer job. 
 - 📫 How to reach me: gabriel.velasquez0116@gmail.com
 - ⚡ Fun fact: When you can't find me behind a screen, you'll find me at a ski slope 🏂 or at a hockey game 🏒 GoAvsGo
