@@ -4,8 +4,8 @@
 
 ---
 
-- 🔭 I’m currently building an application that is a replacement of the NHL app that is available on the app store.
-- 🌱 I’m currently learning Svelte! 
+- 🔭 I’m currently building an application that is a replacement of the NHL app that users can use 
+- 🌱 I’m currently learning app development! 
 - 👯 I’m looking to collaborate on anything that catches my interest! Let's chat!! 
 - 🤔 I’m looking for help with getting my first web developer job. 
 - 📫 How to reach me: gabriel.velasquez0116@gmail.com
